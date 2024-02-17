@@ -120,6 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+weather/
 .env
 .venv
 env/
